@@ -220,3 +220,5 @@ Tone: Direct, no fluff, back every claim with a UX principle.
 <p align="center">
 ✨ <em>Precision in, precision out.</em> ✨
 </p>
+
+//Made with the help AI, Claude Sonnet 5//
